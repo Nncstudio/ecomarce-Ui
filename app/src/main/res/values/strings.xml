@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">All Class</string>
+    <string name="lemon_empty_glass">lemon_empty_glass</string>
+    <string name="empty_glass_content_description">empty_glass_content_description</string>
+    <string name="lemon_select">lemon_select</string>
+    <string name="lemon_tree_content_description">lemon_tree_content_description\n</string>
+    <string name="lemon_squeeze">lemon_squeeze</string>
+    <string name="lemon_content_description">lemon_content_description</string>
+    <string name="lemon_drink">Lemon drink </string>
+    <string name="lemonade_content_description" />
+    <string name="Lemon_tree">Lemon_tree</string>
+    <string name="lemon_tree">lemon tree</string>
+    <string name="new_apppppppp">new apppppppp</string>
+    <string name="restart">restart</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="Enter_celsius">Enter celsius</string>
+    <string name="bill_amount">bill_amount</string>
+    <string name="service">Tip percent</string>
+    <string name="Fahrenheit">Fahrenheit: %s </string>
+    <string name="tip_amount">tip_amount: %s ৳</string>
+    <string name="tip_amoun">tip_amount </string>
+    <string name="roll">Roll</string>
+    <string name="description">description</string>
+    <string name="bill_amount_new">Enter price</string>
+    <string name="calculate_tipe">Calculate tip</string>
+    <string name="roundup">roundup</string>
+    <string name="bill">bill_amount_detalls\n</string>
+    <string name="enter_celsius">Enter celsius</string>
+    <string name="celsius">celsius : %s </string>
+    <string name="fahrenheit_equivalent">fahrenheit_equivalent</string>
+    <string name="Fharenheit">Enter fahrenheit</string>
+    <string name="title_activity_temp_calculator">TempCalculator</string>
+
+
+
+
+
+
+    <string name="architecture">Architecture</string>
+    <string name="automotive">Automotive</string>
+    <string name="biology">Biology</string>
+    <string name="crafts">Crafts</string>
+    <string name="business">Business</string>
+    <string name="culinary">Culinary</string>
+    <string name="design">Design</string>
+    <string name="ecology">Ecology</string>
+    <string name="engineering">Engineering</string>
+    <string name="fashion">Fashion</string>
+    <string name="finance">Finance</string>
+    <string name="film">Film</string>
+    <string name="gaming">Gaming</string>
+    <string name="geology">Geology</string>
+    <string name="drawing">Drawing</string>
+    <string name="history">History</string>
+    <string name="journalism">Journalism</string>
+    <string name="law">Law</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="music">Music</string>
+    <string name="painting">Painting</string>
+    <string name="photography">Photography</string>
+    <string name="physics">physics</string>
+    <string name="tech">Tech</string>
+    <string name="search">Search hare...</string>
+    <string name="align_your_body">ALIGN YOUR BODY</string>
+    <string name="favarite_collections">FAVARITE COLLECTION</string>
+    <string name="Home">Home</string>
+    <string name="Account">Account</string>
+</resources>
